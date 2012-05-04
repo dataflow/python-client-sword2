@@ -1,5 +1,5 @@
-python-sword-client (0.1~rc1) unstable; urgency=low
+python-sword-client (0.1) unstable; urgency=low
 
   * Initial release.
 
- -- Alexander Dutton <alexander.dutton@oucs.ox.ac.uk>  Wed, 25 Apr 2012 16:23:55 +0100
+ -- Alexander Dutton <alexander.dutton@oucs.ox.ac.uk>  Fri, 4 May 2012 13:50:42 +0100
